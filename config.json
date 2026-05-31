@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricssncrypt",
+        "uuid": 17875116,
+        "checksum": "q5lvt4"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
